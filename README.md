@@ -12,6 +12,18 @@ The Advanced Image Flood Fill Engine is a sophisticated C++ application designed
 - **Modular Design**: Built with object-oriented programming principles for easy maintenance and scalability.
 - **Comprehensive Testing**: Includes detailed test cases to ensure reliability and performance across a wide range of images.
 
+## Demonstrations
+
+Here are examples of the flood fill engine applied using BFS and DFS algorithms with a stripe pattern:
+
+### BFS Stripe Pattern
+
+![BFS Stripe Pattern](https://raw.githubusercontent.com/isaacfungg/Image-Flood-Fill/main/data/ex-bfsstripe.gif)
+
+### DFS Stripe Pattern
+
+![DFS Stripe Pattern](https://raw.githubusercontent.com/isaacfungg/Image-Flood-Fill/main/data/ex-dfsstripe.gif)
+
 ## Getting Started
 
 ### Prerequisites
